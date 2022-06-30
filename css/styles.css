@@ -6,3 +6,19 @@ p,
 h1 {
   text-align: center;
 }
+
+div a {
+  margin: 0 10px;
+  color: purple;
+}
+
+#footer {
+  text-align: center;
+}
+
+.croissant-picture {
+  max-width: 100%;
+  margin: 30px auto;
+  border-radius: 10px;
+  text-align: center;
+}
